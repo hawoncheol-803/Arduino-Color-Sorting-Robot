@@ -117,6 +117,7 @@ pip install opencv-python numpy pyserial
 ### ② Arduino 코드 업로드
 
 Arduino IDE에서 `color_sorting_robot.ino` 파일을 열고 Arduino UNO R4 WiFi에 업로드합니다.
+각도 조정을 따로 해야합니다.
 
 ### ③ Python 코드 실행
 
