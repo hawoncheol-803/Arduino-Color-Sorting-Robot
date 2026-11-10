@@ -105,6 +105,7 @@ Python과 Arduino 사이의 시리얼 통신을 가능하게 하는 라이브러
 ### 자동 분류 시연 영상
 
 [시연 영상 보기](videos/sorting_demo.mp4)
+https://youtu.be/S3YmJBOmqUE
 
 ## 7. 실행 방법
 
